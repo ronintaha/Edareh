@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0b72fa2-b251-4deb-a2b0-e257147b1a09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/dao/ConfirmDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/dao/DBHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/dao/EditDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/dao/GetPersonelDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/dao/GetVacationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/dao/PersonelDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/dao/VacationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/dao/creatTabales/CreateTablePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/dao/creatTabales/CreateTableVacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/entity/DataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/entity/PersonelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/entity/VacationData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/service/menuOptions/Edit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/service/menuOptions/GUI/MenuBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/service/menuOptions/PesonelInputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/service/menuOptions/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/service/menuOptions/vacation/CheckVacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/service/menuOptions/vacation/VacationAccept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edareh/service/menuOptions/vacation/VacationRequest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="29b5UakcfJ1iKOKHg9gAsn54xWY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/programmer/IdeaProjects/EdareMaven/src/main/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edareh.MainClass" />
+      <module name="EdareMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edareh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0b72fa2-b251-4deb-a2b0-e257147b1a09" name="Changes" comment="" />
+      <created>1653368962189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653368962189</updated>
+      <workItem from="1653368963663" duration="346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
